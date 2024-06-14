@@ -13,5 +13,5 @@
 
 ## 기술 스택
 - **프론트엔드**: HTML, CSS, JavaScript, mustache
-- **백엔드**: Spring boot
+- **백엔드**: Spring boot (spring web, h2 Database, Mustache, Spring Data JPA)
 - **데이터베이스**: H2
